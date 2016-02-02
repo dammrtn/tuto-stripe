@@ -15,6 +15,7 @@ gem 'bootstrap-sass'
 gem 'better_errors'
 gem 'coffee-script-source', '1.8.0'
 gem 'stripe', :git => 'https://github.com/stripe/stripe-ruby'
+gem 'figaro'
 
 group :development, :test do
   gem 'byebug'
